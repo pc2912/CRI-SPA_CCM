@@ -1,6 +1,6 @@
 # CRI-SPA_CCM
-#Handle the data and plot figures of pre-print:
-**Microbial cell factory optimisation using genome-wide host-pathway interaction screens** <br/>
+#Handle the data and plot figures of pre-print:<br/>
+**"Microbial cell factory optimisation using genome-wide host-pathway interaction screens." bioRxiv (2023): 2023-08** <br/>
 
 https://doi.org/10.1101/2023.08.30.555557<br/>
 
@@ -14,7 +14,6 @@ Plot network figures for Fig. 4. <br/>
 Plot supplementary figures from raw data <br/>
 **Read_Plates** <br/>
 Extract colony fluorescence and size from raw images. Apply data correction developed by the Boone and Andrews Lab <br/>
-Draws networks of enriched terms. <br/>
 **USER_Primers** <br/>
 Generate the primers with USER overhangs used in this study.<br/>
 
